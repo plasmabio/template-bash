@@ -17,7 +17,7 @@ This repository follows the [binder-examples/conda](https://github.com/binder-ex
 `repo2docker` can be configured with several types of files. In the case of this repo:
 
 - `environment.yml`: specify the dependency that will be installed using `conda`
-- `postBuild`: specify extra dependencies such as JupyterLab extensions
+- `postBuild`: specify extra dependencies such as JupyterLab extensions and activate the [Bash kernel](https://github.com/takluyver/bash_kernel)
 
 Once created, the environment can be reused without building it again.
 
