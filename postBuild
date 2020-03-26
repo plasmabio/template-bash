@@ -1,0 +1,5 @@
+jupyter labextension install \
+  jupyterlab-topbar-extension \
+  jupyterlab-system-monitor
+
+python -m bash_kernel.install
