@@ -2,4 +2,4 @@ jupyter labextension install \
   jupyterlab-topbar-extension \
   jupyterlab-system-monitor
 
-python -m bash_kernel.install
+python -m bash_kernel.install --sys-prefix
