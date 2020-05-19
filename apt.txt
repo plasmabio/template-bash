@@ -1,7 +1,5 @@
 vim
 nano
 gawk
-grep
-sed
 tree
 htop
