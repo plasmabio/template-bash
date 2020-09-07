@@ -4,6 +4,3 @@ jupyter labextension install \
   jupyterlab-topbar-text
 
 python -m bash_kernel.install --sys-prefix
-
-# Build man pages
-mandb

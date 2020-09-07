@@ -3,6 +3,3 @@ nano
 gawk
 tree
 htop
-man-db
-manpages
-manpages-posix
