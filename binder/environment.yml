@@ -14,6 +14,10 @@ dependencies:
   - jupyterlab-topbar
   - jupyterlab-topbar-text
   - jupyterlab-system-monitor
+  - nodejs
+  # Jupyter archive
+  # https://github.com/jupyterlab-contrib/jupyter-archive
+  - jupyter-archive
   # Bash environment
   - python>=3.8
   - pip
