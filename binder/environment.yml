@@ -19,7 +19,7 @@ dependencies:
   # https://github.com/jupyterlab-contrib/jupyter-archive
   - jupyter-archive
   # Bash environment
-  - python>=3.8
+  - python=3.9
   - pip
   - pip:
-    - bash_kernel==0.7.2
+    - bash_kernel
