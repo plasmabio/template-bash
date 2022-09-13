@@ -22,4 +22,4 @@ dependencies:
   - python>=3.8
   - pip
   - pip:
-    - bash_kernel
+    - bash_kernel==0.7.2
